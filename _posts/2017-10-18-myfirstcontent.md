@@ -1,5 +1,5 @@
 ---
-title:"처음으로 지킬을 깔아보다!"
+title: "My first"
 ---
 
 
